@@ -8,7 +8,7 @@
 
 
 [![Stars](https://img.shields.io/github/stars/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/stargazers)
-[![Forks](https://img.shields.io/github/forks/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=blue)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/fork)
+[![Forks](https://img.shields.io/github/forks/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=lime)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/fork)
 [![Size](https://img.shields.io/github/repo-size/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
 [![Contributors](https://img.shields.io/github/contributors/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=cyan)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/graphs/contributors)

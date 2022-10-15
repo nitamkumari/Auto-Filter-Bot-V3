@@ -8,10 +8,10 @@ from info import COMMAND_HAND_LER
 from plugins.helper_functions.cust_p_filters import f_onw_fliter
 
 # -- Constants -- #
-ALIVE = "Command Is Working Fine? Yes It Is So I am Fine Subscribe @CyniteMovies" 
+ALIVE = "Command Is Working Fine? Yes It Is So I am Fine Subscribe @NoNStopMoviez4U" 
 REPO = "<b>𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 ›› https://youtu.be/MfUjmZ1mpfc</b>"
-CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/c/TechnicalCynite\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/Technicalcynite</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/CyniteMovies</b>"
-GROUP = "<b>Group Link ›› https://t.me/+iK9QpPRMNYQyYWY1</b>"
+CHANNEL = "<b>𝚈𝙾𝚄𝚃𝚄𝙱𝙴 𝙲𝙷𝙰𝙽𝙽𝙴𝙻</b> ›› https://youtube.com/channel/UCFUf7GBgFqYqXE4f9hUqWpw\n\n<b>𝚄𝙿𝙳𝙰𝚃𝙴𝚂 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/XissionBots</b>\n\n<b>𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› https://t.me/NoNStopMoviez4U</b>"
+GROUP = "<b>Group Link ›› https://t.me/NoNStopFilmz</b>"
 # -- Constants End -- #
 
 

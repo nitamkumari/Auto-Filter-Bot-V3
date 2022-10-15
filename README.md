@@ -11,7 +11,7 @@
 [![Forks](https://img.shields.io/github/forks/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=blue)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/fork)
 [![Size](https://img.shields.io/github/repo-size/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=red)](https://github.com/Aadhi000/Ajax-Extra-Features)   
 [![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/Aadhi000/Ajax-Extra-Features)   
-[![Contributors](https://img.shields.io/github/contributors/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot-V3/graphs/contributors)
+[![Contributors](https://img.shields.io/github/contributors/nitamkumari/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/nitamkumari/Auto-Filter-Bot-V3/graphs/contributors)
 ## Features
 
 - [x] Auto Filter

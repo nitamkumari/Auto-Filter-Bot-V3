@@ -3,8 +3,8 @@
   <b>Auto-Filter-Bot-V3</b>
 </h1>
 
-<a href="https://t.me/TechnicalCynite">
-  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=youtube" width="150">
+<a href="https://t.me/XissionBots">
+  <img src="https://img.shields.io/badge/𝚂𝚄𝙱𝚂𝙲𝚁𝙸𝙱𝙴-black?logo=telegram" width="150">
 
 
 [![Stars](https://img.shields.io/github/stars/CyniteOfficial/Auto-Filter-Bot-V3?style=flat-square&color=green)](https://github.com/CyniteOfficial/Auto-Filter-Bot-V3/stargazers)
